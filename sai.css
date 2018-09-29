@@ -1,0 +1,102 @@
+article{
+	padding-left: 50px;
+	background-color: white;
+	font-size: 20px;
+	color: violet;
+}
+#present-section{
+	border-style: groove;
+	border-bottom-color: red;
+	font-size:30px;
+	color:green;
+	font-weight: bold;
+	
+}
+#past-section{
+	border-style: groove;
+	border-bottom-color: green;
+	font-size:30px;
+	color:blue;
+	font-weight: bold;
+}
+#future-section{
+	border-style: groove;
+	border-bottom-color: brown;
+	font-size:30px;
+	color:red;
+	font-weight: bold;
+	
+}
+#Daily{
+	border-style: groove;
+	border-bottom-color: blue;
+	font-size:30px;
+	color:black;
+	font-weight: bold;
+	
+}
+#Dailyclass{
+	border-style: groove;
+	border-bottom-color: black;
+	font-size:30px;
+	color:violet;
+	font-weight: bold;
+	
+}
+#linkedin{
+	border-style: groove;
+	border-bottom-color: violet;
+	font-size:30px;
+	color:blue;
+	font-weight: bold;
+	
+}
+
+.present{
+	font-size:25px;	
+	font-style: normal;
+	color:violet;
+}
+.past{
+	font-size:25px;	
+	font-style: oblique;
+	color:red;
+}
+.future{
+	font-size:25px;	
+	font-style: italic;
+	color:brown;
+}
+
+.hobbies{
+	font-size:25px;	
+	font-style: normal;
+	color:black;
+}
+ul li{
+	font-size:25px;
+	color:blue;
+	font-weight: bold;	
+}
+.profile{
+	font-size:70px;	
+	font-style: italic;
+	color:blue;
+}
+#heading{
+	font-size:50px;
+	font-style: italic;
+	color:red;
+	background-color:gold;
+	text-align:center;
+}
+#asidertag{
+	font-size:40px;	
+	font-style: italic;
+	color:red;
+}
+.Thankyou{
+	font-size:40px;	
+	font-style: oblique;
+	color:red;
+}
